@@ -23,7 +23,7 @@ const DiscordButton = () => (
   <a
     className={'discord-button'}
     target={'_blank'}
-    href={'https://discord.com/invite/metaplex'}
+    href={'https://discord.com/invite/metaplex'} rel="noreferrer"
   >
     <span></span> Join our Discord
   </a>
@@ -53,7 +53,7 @@ const PreLaunchModal = (props: GotEmailButtonProps) => {
       onCancel={e => handleOnCancel(e)}
       footer={null}
       className={`pre-modal ${className || ''}`}
-      closeIcon={<img src={'/modals/close.svg'} />}
+      closeIcon={<img src={`${process.env.ASSET_PREFIX}modals/close.svg`} />}
       {...rest}
     >
       <span className={'how-to-step'}>

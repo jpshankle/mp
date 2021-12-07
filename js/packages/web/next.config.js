@@ -28,6 +28,7 @@ module.exports = withPlugins(plugins, {
     ignoreDuringBuilds: true,
   },
   env: {
+    ASSET_PREFIX: assetPrefix,
     NEXT_PUBLIC_STORE_OWNER_ADDRESS:
       process.env.STORE_OWNER_ADDRESS ||
       process.env.REACT_APP_STORE_OWNER_ADDRESS_ADDRESS,
