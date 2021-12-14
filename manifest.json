@@ -1,6 +1,6 @@
 {
-  "name": "Mint Subs Market",
-  "short_name": "Mint Subs Market",
+  "name": "Agora Market",
+  "short_name": "Agora Market",
   "display": "standalone",
   "start_url": "./",
   "theme_color": "#722ed1",
