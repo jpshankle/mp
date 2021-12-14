@@ -1,6 +1,6 @@
 {
-  "name": "Agora Market",
-  "short_name": "Agora Market",
+  "name": "Edicola",
+  "short_name": "Edicola",
   "display": "standalone",
   "start_url": "./",
   "theme_color": "#722ed1",
