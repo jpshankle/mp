@@ -1,6 +1,6 @@
 {
-  "name": "Agora NFT Marketplace",
-  "short_name": "Agora NFT Marketplace",
+  "name": "Mint Subs Market",
+  "short_name": "Mint Subs Market",
   "display": "standalone",
   "start_url": "./",
   "theme_color": "#722ed1",
