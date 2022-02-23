@@ -1,23 +1,23 @@
 {
-  "name": "Edicola",
-  "short_name": "Edicola",
+  "name": "Metaplex NFT Marketplace",
+  "short_name": "Metaplex NFT Marketplace",
   "display": "standalone",
   "start_url": "./",
-  "theme_color": "#722ed1",
-  "background_color": "#E1E1E1",
+  "theme_color": "#002140",
+  "background_color": "#001529",
   "icons": [
     {
-      "src": "/mp/favicon-16x16.png",
+      "src": "/favicon-16x16.png",
       "sizes": "16x16",
       "type": "image/png"
     },
     {
-      "src": "/mp/favicon-32x32.png",
+      "src": "/favicon-32x32.png",
       "sizes": "32x32",
       "type": "image/png"
     },
     {
-      "src": "/mp/favicon-96x96.png",
+      "src": "/favicon-96x96.png",
       "sizes": "96x96",
       "type": "image/png"
     }
